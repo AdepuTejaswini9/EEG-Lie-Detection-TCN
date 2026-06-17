@@ -1,0 +1,67 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+
+# Environment variables
+
+.env
+
+# Dataset folders
+
+data/
+dataset/
+datasets/
+
+# Trained models
+
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# TensorBoard logs
+
+runs/
+logs/
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+
+.coverage
+htmlcov/
+
+# Large result exports (optional)
+
+*.zip
+*.tar.gz
