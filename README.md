@@ -85,10 +85,9 @@ EEG-Lie-Detection-TCN/
 │   ├── accuracy_vs_epochs.png
 │
 ├── figures/
-│   ├── workflow.png
-│   ├── tcn_architecture.png
-│
-└── LICENSE
+   ├── workflow.png
+   ├── tcn_architecture.png
+
 ```
 
 ---
