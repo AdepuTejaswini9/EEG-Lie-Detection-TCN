@@ -107,14 +107,7 @@ https://data.mendeley.com/datasets/5gzxb2bzs2/2
 EEG-Lie-Detection-TCN/
 │
 ├── README.md
-├── requirements.txt
 ├── EEG_Lie_Detection_TCN.ipynb
-│
-├── models/
-│   ├── tcn_model.pth
-│   ├── cnn_model.pth
-│   ├── lstm_model.pth
-│   └── bilstm_model.pth
 │
 ├── results/
    ├── confusion_matrix_subject1.png
